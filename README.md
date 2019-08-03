@@ -4,7 +4,7 @@
 The purpose of the project is to develop a tool that would allow me to generate a 10 character password whenever i need to create one or update my existing password to any of my accounts including github. Since i now develop tools for myself and am looking to toss new fun projects into my portfolio i want to share with you how i create this app and how it works in my world today.  
 
 # Instructions
-1.To start open a new file in vscode.
+1.To start open a new file in vscode.'\n'
 2.save it as passwordGenerator.html
 3.on line one of your new html document instead of writting the entire html tree down just type ! exclamation point and hit enter it should create the entire tree for you.
 4.inside the body of your password generator create a div and give it the id of container. 
