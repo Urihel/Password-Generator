@@ -16,3 +16,6 @@ The purpose of the project is to develop a tool that would allow me to generate 
 - 9.on the next line create another div and give that the id of messageDisplay. I'll get into more detail later on how we will have that work with the dom and js to have a message alert your new password is printed below for you to copy paste of write out completely. One thing is dont write any text in our messageDisplay id. the alert message will also be handled in js. 
 - 10.finally on the next line i want you to write the final div which we will use to generate our password into text and then we should be able to copy paste to any website or password update in the future. for this final div lets give it the id of passwordDisplay. Don't write any text inside the div as javascript will handle in displaying your new password.
 - 11.create a set of style tags inside the head of the html document. as an fyi the style tags in html allows you to execute css code which we will use to style the document. 
+
+# Update 
+- 1. responsive design settings added to div id int1 where when you click the minimize screen and and adjust the width to 600px the character boxes follow the design as it srinks. 
