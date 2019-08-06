@@ -1,4 +1,4 @@
-# Password-Generator
+# Long Password-Generator
 
 # Project Description
 The purpose of the project is to develop a tool that would allow me to generate a 10 character password whenever i need to create one or update my existing password to any of my accounts including github. Since i now develop tools for myself and am looking to toss new fun projects into my portfolio i want to share with you how i create this app and how it works in my world today.  
